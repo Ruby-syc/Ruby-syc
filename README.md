@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ruby-syc!
+# 👋 Hi, I'm Ruby!
 > A passionate developer & lifelong learner 🚀
 
 ## 🛠️ Tech Stack
